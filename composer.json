@@ -1,0 +1,16 @@
+{
+    "name": "ecdarwin/ct",
+    "description": "ecdarwin ct",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lichunqiang",
+            "email": "light-li@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"ecdarwin\\": "src/"}
+    }
+}
