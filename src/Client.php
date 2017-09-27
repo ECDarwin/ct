@@ -7,4 +7,10 @@ class Client
 	{
 		return '0.0.0';
 	}
+
+	public function test()
+	{
+		echo __METHOD__;
+
+	}
 }
