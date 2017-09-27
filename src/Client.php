@@ -11,6 +11,5 @@ class Client
 	public function test()
 	{
 		echo __METHOD__;
-
 	}
 }
