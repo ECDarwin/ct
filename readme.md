@@ -1,2 +1,3 @@
 Composer test
 -----------------
+test
